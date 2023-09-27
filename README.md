@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Travis Ho
+## Major: Bachelors of Computer Science
+## Minor: Minor in Cyber Security
+
+## Skills: Java, Python, C, HTML, CSS, Javascript
+
+## What I want to do: I want to be a software developer whether it is being a front-end or back-end, I can do both.
+
+## About myself: Hard working individual that specializes in debugging and solving the problem. Main language I use is java
