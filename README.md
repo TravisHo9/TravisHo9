@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TravisHo9/TravisHo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 ## About myself: Hard working individual that specializes in debugging and solving the problem. Main language I use is java -->
 
 
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Travis Ho
+Hi there! 👋 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Travis Ho
 =================================================================================================================================
 
 <img src="Picture.jpg" alt="Profile Picture">
